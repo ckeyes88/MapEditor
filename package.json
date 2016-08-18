@@ -1,0 +1,21 @@
+{
+  "name": "map-viewport",
+  "version": "0.1.0",
+  "description": "A library to request and draw visual assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Bundy",
+  "license": "MIT",
+  "dependencies": {
+    "portals": "^1.0.5",
+    "svg-pan-zoom": "^3.2.9"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
