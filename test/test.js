@@ -14,6 +14,7 @@ describe("Testing MapViewport", function() {
             height: 200,
             path: '400.jpeg'
         });
+
         expect(viewPort.height).to.be.eql(500);
     });
 });
